@@ -8,4 +8,8 @@ public class Other {
         Number = Number * 2;
         return Number;
     }
+
+    public void DoSomething() {
+        System.out.println(Something);
+    }
 }
